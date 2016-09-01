@@ -1,0 +1,7 @@
+D:\GitWorkSpace\CaptureScreen\CaptrueScreen\bin\Debug\截屏软件.exe
+D:\GitWorkSpace\CaptureScreen\CaptrueScreen\bin\Debug\截屏软件.pdb
+D:\GitWorkSpace\CaptureScreen\CaptrueScreen\obj\x86\Debug\CaptureScreen.Form1.resources
+D:\GitWorkSpace\CaptureScreen\CaptrueScreen\obj\x86\Debug\CaptureScreen.Properties.Resources.resources
+D:\GitWorkSpace\CaptureScreen\CaptrueScreen\obj\x86\Debug\CaptureScreen.csproj.GenerateResource.Cache
+D:\GitWorkSpace\CaptureScreen\CaptrueScreen\obj\x86\Debug\截屏软件.exe
+D:\GitWorkSpace\CaptureScreen\CaptrueScreen\obj\x86\Debug\截屏软件.pdb
